@@ -1,0 +1,19 @@
+body {
+	font-family: 'Roboto', sans-serif;
+	background-color: #58FAF4;
+	text-align: center;
+}
+div.a {
+	border: 3px solid black;
+	background-image: url("../images/maupi.jpg");
+	background-repeat: no-repeat;
+	color: #0080FF;
+	margin: 10px
+}
+ul {
+	color: #BF00FF;
+	border: 3px #BF00FF;
+}
+p {
+	color: #4C0B5F;
+}
