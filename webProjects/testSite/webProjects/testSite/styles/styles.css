@@ -1,0 +1,39 @@
+body {
+	font-family: 'Roboto', sans-serif;
+	background-color: #00b4e1;
+	background-image: url("../images/o2g2.png");
+	text-align: center;
+}
+input.knoppie {
+	cursor: pointer;
+	font-size: 200%;
+	width: 200px;
+	padding: 10px;
+	background: #492b9b;
+	color: #c93abb;
+	border: 3px solid black;
+}
+div.plaatje {
+	margin:10px;
+}
+div.a {
+	border: 3px solid black;
+	background-image: url("../images/hislustiouseyes.png");
+	background-size: 100%;
+	background-position: center;
+	background-color: white;
+	background-repeat: no-repeat;
+	color: #0080FF;
+	margin: 10px
+}
+div.c{
+	border: 3px solid black;
+	background-color: #00b4e1;
+}
+ul {
+	color: #BF00FF;
+	border: 3px #BF00FF;
+}
+p {
+	color: #4C0B5F;
+}
