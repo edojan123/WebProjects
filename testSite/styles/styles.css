@@ -1,6 +1,6 @@
 body {
 	font-family: 'Roboto', sans-serif;
-	background-color: #58FAF4;
+	background-color: white;
 	text-align: center;
 }
 input.knoppie {
@@ -24,6 +24,10 @@ div.a {
 	background-repeat: no-repeat;
 	color: #0080FF;
 	margin: 10px
+}
+div.c{
+	border: 3px solid black;
+	background-color: #00b4e1;
 }
 ul {
 	color: #BF00FF;
