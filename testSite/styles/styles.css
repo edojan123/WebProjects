@@ -3,14 +3,28 @@ body {
 	background-color: white;
 	text-align: center;
 }
-input.knoppie {
-	cursor: pointer;
-	font-size: 200%;
-	width: 200px;
-	padding: 10px;
-	background: #492b9b;
-	color: #c93abb;
+h1{
+	text-align: left;
+	margin: 10px;
+}
+h2{
+	text-align: left;
+	margin: 10px;
+}
+button {
 	border: 3px solid black;
+	cursor: pointer;
+	font-size: 120%;
+	width: 180px;
+	padding: 5px;
+	background: #0064ff;
+	color: white;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+	border: 0px solid black;
+}
+div.top{
+	border: 2px solid black;
+	background-image: url("../images/titlebackground.png");
 }
 div.plaatje {
 	margin:10px;
@@ -26,8 +40,6 @@ div.a {
 	margin: 10px
 }
 div.c{
-	border: 3px solid black;
-	background-color: #00b4e1;
 }
 ul {
 	color: #BF00FF;
