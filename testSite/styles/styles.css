@@ -1,15 +1,14 @@
 body {
 	font-family: 'Roboto', sans-serif;
 	background-color: white;
-	text-align: center;
 }
 h1{
 	text-align: left;
 	margin: 10px;
 }
-h2{
-	text-align: left;
-	margin: 10px;
+h1.title{
+	font-size: 150%;
+	color: #4C0B5F;
 }
 button {
 	border: 3px solid black;
@@ -17,6 +16,7 @@ button {
 	font-size: 120%;
 	width: 180px;
 	padding: 5px;
+	margin-bottom: 40px;
 	background: #0064ff;
 	color: white;
 	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
@@ -25,26 +25,15 @@ button {
 div.top{
 	border: 2px solid black;
 	background-image: url("../images/titlebackground.png");
+	padding-left: 10px;
 }
-div.plaatje {
-	margin:10px;
-}
-div.a {
-	border: 3px solid black;
-	background-image: url("../images/hislustiouseyes.png");
-	background-size: 100%;
-	background-position: center;
-	background-color: white;
-	background-repeat: no-repeat;
-	color: #0080FF;
-	margin: 10px
+div.buttons{
+	text-align: center;
 }
 div.c{
-}
-ul {
-	color: #BF00FF;
-	border: 3px #BF00FF;
+	text-align: center;
 }
 p {
 	color: #4C0B5F;
+	margin: 50px;
 }
